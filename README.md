@@ -13,8 +13,8 @@ Users should be able to:
 
 ## Links 
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL:(https://www.frontendmentor.io/solutions/order-summary-card-solution-2mtJBZu2bd) 
+- Live Site URL:(https://bkfoe.github.io/order-summary-card-solution/)
 
 ## Author 
 
